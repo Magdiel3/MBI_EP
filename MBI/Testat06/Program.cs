@@ -6,7 +6,7 @@ namespace Testat06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\nAufgabe 5");
+            Console.WriteLine("\nAufgabe 6");
             Console.WriteLine("Bitte das Alter von Student 1 eingeben und mit Enter bestätigen :");
             int alter1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Bitte das Alter von Student 2 eingeben und mit Enter bestätigen :");
