@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Testat11.Person">
+    <Position X="2" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAAABAgAQAAMAEABBAAABQAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat11.VollstaendigerName" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgACAAAEAgAAAAAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>VollstaendigerName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat11.Adresse" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAACAAEAAgAAAAAAAAAAABAAAAAUAAAABA=</HashCode>
+      <FileName>Adresse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat11.Kunde">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAEAAAQAAAAAAAAAAAAAAAQAAAAAAg=</HashCode>
+      <FileName>Kunde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat11.Mitarbeiter">
+    <Position X="3.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Mitarbeiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat11.Datenverwaltung" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAABCEAAAAAAIAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Datenverwaltung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat11.Toolbox" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAIAAAAACAAA=</HashCode>
+      <FileName>Toolbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
