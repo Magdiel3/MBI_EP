@@ -1,0 +1,4045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datenverwaltung xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <kundenverwaltung>
+    <Kunde>
+      <anrede>Herr</anrede>
+      <name>
+        <vorname>Magdiel</vorname>
+        <mittelname />
+        <nachname>Martinez</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>Marbacher Weg</strasse>
+          <hausnummer>24</hausnummer>
+          <plz>57930</plz>
+          <stadt>Marburg</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>Universitätstrasse</strasse>
+          <hausnummer>150</hausnummer>
+          <plz>44801</plz>
+          <stadt>Bochum</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>Markstrasse</strasse>
+          <hausnummer>105</hausnummer>
+          <plz>44801</plz>
+          <stadt>Marburg</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>1774257849</telefonnummer>
+      <geburtsdatum>1997-10-05T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2019-10-03T00:00:00</kundeSeit>
+    </Kunde>
+    <Kunde>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
+    </Kunde>
+    <Kunde>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
+    </Kunde>
+    <Kunde>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
+    </Kunde>
+    <Kunde>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
+    </Kunde>
+  </kundenverwaltung>
+  <mitarbeiterverwaltung>
+    <Mitarbeiter>
+      <anrede>Frau</anrede>
+      <name>
+        <vorname>Flor</vorname>
+        <mittelname />
+        <nachname>Amargo</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>Markstrasse</strasse>
+          <hausnummer>105</hausnummer>
+          <plz>44801</plz>
+          <stadt>Marburg</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>Marbacher Weg</strasse>
+          <hausnummer>12</hausnummer>
+          <plz>44301</plz>
+          <stadt>Marburg</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>1774347843</telefonnummer>
+      <geburtsdatum>1998-10-20T00:00:00</geburtsdatum>
+      <anschriftBuero>1</anschriftBuero>
+    </Mitarbeiter>
+    <Mitarbeiter>
+      <anrede>Herr</anrede>
+      <name>
+        <vorname>Pedrito</vorname>
+        <mittelname />
+        <nachname>Sola</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>Markstrasse</strasse>
+          <hausnummer>105</hausnummer>
+          <plz>44801</plz>
+          <stadt>Marburg</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>1774347843</telefonnummer>
+      <geburtsdatum>1968-10-20T00:00:00</geburtsdatum>
+      <anschriftBuero>1</anschriftBuero>
+    </Mitarbeiter>
+    <Mitarbeiter>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+        <Adresse>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
+        </Adresse>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftBuero>1</anschriftBuero>
+    </Mitarbeiter>
+  </mitarbeiterverwaltung>
+  <produktverwaltung>
+    <Produkt>
+      <bezeichnigung>Ein 4-Zylinder-Motor</bezeichnigung>
+      <id>ABC123</id>
+      <revision>A</revision>
+      <lifecyclestate>Released</lifecyclestate>
+      <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+      <baugruppen>
+        <Baugruppe>
+          <bezeichnigung>Engine</bezeichnigung>
+          <id>IT000001</id>
+          <revision>A</revision>
+          <lifecyclestate>Production</lifecyclestate>
+          <erstellungsdatum>2020-03-06T15:55:25.3045879+01:00</erstellungsdatum>
+          <baugruppen>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+          </baugruppen>
+          <bauteile>
+            <Bauteil>
+              <bezeichnigung>Camshaft</bezeichnigung>
+              <id>IT000011</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Crankshaft</bezeichnigung>
+              <id>IT000018</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Belt</bezeichnigung>
+              <id>IT000019</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Crankshaft Pulley</bezeichnigung>
+              <id>IT000020</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Camshaft Pulley</bezeichnigung>
+              <id>IT000021</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+          </bauteile>
+        </Baugruppe>
+      </baugruppen>
+    </Produkt>
+    <Produkt>
+      <bezeichnigung>Ein 8-Zylinder-Motor</bezeichnigung>
+      <revision>A</revision>
+      <lifecyclestate>PreReleased</lifecyclestate>
+      <erstellungsdatum>2020-03-06T15:55:25.3085776+01:00</erstellungsdatum>
+      <baugruppen>
+        <Baugruppe>
+          <bezeichnigung>Engine</bezeichnigung>
+          <id>IT000001</id>
+          <revision>B</revision>
+          <lifecyclestate>Production</lifecyclestate>
+          <erstellungsdatum>2020-03-06T15:55:25.3045879+01:00</erstellungsdatum>
+          <baugruppen>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Exhaust Valve</bezeichnigung>
+              <id>IT000002</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3066021+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Admission Valve</bezeichnigung>
+              <id>IT0000010</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Tappet Follower</bezeichnigung>
+                  <id>IT000003</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Pallet</bezeichnigung>
+                  <id>IT000004</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Shaft</bezeichnigung>
+                  <id>IT000005</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Cover Part</bezeichnigung>
+                  <id>IT000006</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring Compressor</bezeichnigung>
+                  <id>IT000007</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Spring</bezeichnigung>
+                  <id>IT000008</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Valve Guide</bezeichnigung>
+                  <id>IT000009</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+            <Baugruppe>
+              <bezeichnigung>Pistion</bezeichnigung>
+              <id>IT0000012</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+              <baugruppen />
+              <bauteile>
+                <Bauteil>
+                  <bezeichnigung>Pistion Head</bezeichnigung>
+                  <id>IT000013</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Top</bezeichnigung>
+                  <id>IT000014</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Conrod Bottom</bezeichnigung>
+                  <id>IT000015</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Pistion Bolt</bezeichnigung>
+                  <id>IT000016</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+                <Bauteil>
+                  <bezeichnigung>Bearing Shell</bezeichnigung>
+                  <id>IT000017</id>
+                  <revision>A</revision>
+                  <lifecyclestate>Production</lifecyclestate>
+                  <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+                </Bauteil>
+              </bauteile>
+            </Baugruppe>
+          </baugruppen>
+          <bauteile>
+            <Bauteil>
+              <bezeichnigung>Camshaft</bezeichnigung>
+              <id>IT000011</id>
+              <revision>A</revision>
+              <lifecyclestate>Unreleased</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Crankshaft</bezeichnigung>
+              <id>IT000018</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Belt</bezeichnigung>
+              <id>IT000019</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Crankshaft Pulley</bezeichnigung>
+              <id>IT000020</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+            <Bauteil>
+              <bezeichnigung>Camshaft Pulley</bezeichnigung>
+              <id>IT000021</id>
+              <revision>A</revision>
+              <lifecyclestate>Production</lifecyclestate>
+              <erstellungsdatum>2020-03-06T15:55:25.3078803+01:00</erstellungsdatum>
+            </Bauteil>
+          </bauteile>
+        </Baugruppe>
+      </baugruppen>
+    </Produkt>
+  </produktverwaltung>
+</Datenverwaltung>

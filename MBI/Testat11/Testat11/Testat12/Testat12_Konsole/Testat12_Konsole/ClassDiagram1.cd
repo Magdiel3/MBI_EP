@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Testat12_Konsole.Adresse" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAUAAAABA=</HashCode>
+      <FileName>Adresse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Person" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAABAAAAAAMAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.VollstaendigerName" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgACAAAEAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>VollstaendigerName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Mitarbeiter" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Mitarbeiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Kunde" Collapsed="true">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAg=</HashCode>
+      <FileName>Kunde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Toolbox" Collapsed="true">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAEAAAABAAAAAAAAAAAAAAAAAAIAAAAACAAA=</HashCode>
+      <FileName>Toolbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.VerwaltetesElement" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAgAgA=</HashCode>
+      <FileName>VerwaltetesElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Produkt">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Produkt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Bauteil">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bauteil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Testat12_Konsole.Baugruppe">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAiAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Baugruppe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Testat12_Konsole.LifeCycleStates" Collapsed="true">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAQAAAgAAAAAAAAAEAAQAQAAAAAAA=</HashCode>
+      <FileName>LifeCycleStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
