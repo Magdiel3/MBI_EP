@@ -9,8 +9,8 @@ namespace Testat11
     public class Kunde : Person
     {
         //Daten
-        private int anschriftLieferung = 1;
-        private DateTime kundeSeit = new DateTime(2015, 11, 15);
+        public int anschriftLieferung = 1;
+        public DateTime kundeSeit = new DateTime(2015, 11, 15);
 
         //Kosntruktoren
         public Kunde() : base() { }
@@ -24,25 +24,13 @@ namespace Testat11
         }
 
         //Methoden
-        public int AnschriftLieferung
-        {
-            get { return anschriftLieferung; }
-            set { anschriftLieferung = value; }
-        }
-
-        public DateTime KundeSeit
-        {
-            get { return kundeSeit; }
-            set { kundeSeit = value; }
-        }
-
         public override string ToString()
         {
-            string text = Anrede + " " + Name.ToString() + "\n" + Telefonnummer +
-                "\nGeburtsdatum: " + Geburtsdatum.ToShortDateString() + "\nKunde seit: " +
-                kundeSeit.ToShortDateString() + "\nPrivat(" + Adressbuch.Count() + "):";
-            text += "\n" + Adressbuch[AnschriftPrivat].ToString();
-            text += "\nLieferadresse:\n" + Adressbuch[anschriftLieferung].ToString();
+            string text = anrede + " " + name.ToString() + "\n" + telefonnummer +
+                "\nGeburtsdatum: " + geburtsdatum.ToShortDateString() + "\nKunde seit: " +
+                kundeSeit.ToShortDateString() + "\nPrivat(" + adressbuch.Count() + "):";
+            text += "\n" + adressbuch[anschriftPrivat].ToString();
+            text += "\nLieferadresse:\n" + adressbuch[anschriftLieferung].ToString();
             return text;
         }
     }

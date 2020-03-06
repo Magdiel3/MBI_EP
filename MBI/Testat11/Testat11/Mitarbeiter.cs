@@ -7,9 +7,9 @@ namespace Testat11
 {
     [Serializable]
     public class Mitarbeiter : Person
-    {   
+    {
         //Daten
-        private int anschriftBuero = 1;
+        public int anschriftBuero = 1;
 
         //Konstruktor
         public Mitarbeiter(string anrede, VollstaendigerName name,
@@ -22,19 +22,13 @@ namespace Testat11
 
         public Mitarbeiter() : base() { }
 
-        //Methoden
-        public int AnschriftBuero
-        {
-            get { return anschriftBuero; }
-            set { anschriftBuero = value; }
-        }
-           
+        //Methoden           
         public override string ToString()
         {
-            string text = Anrede + " " + Name.ToString() + "\n" + Telefonnummer +
-                "\nGeburtsdatum: " + Geburtsdatum.ToShortDateString() + "\nPrivat(" + Adressbuch.Count() + "):";
-            text += "\n" + Adressbuch[AnschriftPrivat].ToString();   
-            text += "\nBüro:\n" + Adressbuch[anschriftBuero].ToString();
+            string text = anrede + " " + name.ToString() + "\n" + telefonnummer +
+                "\nGeburtsdatum: " + geburtsdatum.ToShortDateString() + "\nPrivat(" + adressbuch.Count() + "):";
+            text += "\n" + adressbuch[anschriftPrivat].ToString();   
+            text += "\nBüro:\n" + adressbuch[anschriftBuero].ToString();
             return text;
         }
     }

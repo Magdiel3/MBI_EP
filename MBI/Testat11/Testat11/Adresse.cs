@@ -8,10 +8,10 @@ namespace Testat11
     public class Adresse
     {
         //Daten
-        private string strasse = "strasse";
-        private string hausnummer = "123";
-        private string plz = "45678";
-        private string stadt = "stadt";
+        public string strasse = "strasse";
+        public string hausnummer = "123";
+        public string plz = "45678";
+        public string stadt = "stadt";
 
         //Konstruktoren
         public Adresse(string strasse, string hausnummer, string plz, string stadt)
@@ -25,30 +25,6 @@ namespace Testat11
         public Adresse() { }
 
         //Methoden
-        public string Strasse
-        {
-            get { return strasse; }
-            set { strasse = value; }
-        }
-
-        public string Hausnummer
-        {
-            get { return hausnummer; }
-            set { hausnummer = value; }
-        }
-
-        public string Plz
-        {
-            get { return plz; }
-            set { plz = value; }
-        }
-
-        public string Stadt
-        {
-            get { return stadt; }
-            set { stadt = value; }
-        }
-
         public override string ToString()
         {
             return strasse + " " + hausnummer + "\n" + plz + " " + stadt;

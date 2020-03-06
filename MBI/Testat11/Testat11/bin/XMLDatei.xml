@@ -1,226 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Datenverwaltung xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Kundenverwaltung>
+  <kundenverwaltung>
     <Kunde>
-      <Anrede>Herr</Anrede>
-      <Name>
-        <Vorname>Magdiel</Vorname>
-        <Mittelname />
-        <Nachname>Martinez</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>Herr</anrede>
+      <name>
+        <vorname>Magdiel</vorname>
+        <mittelname />
+        <nachname>Martinez</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>Marbacher Weg</Strasse>
-          <Hausnummer>24</Hausnummer>
-          <Plz>57930</Plz>
-          <Stadt>Marburg</Stadt>
+          <strasse>Marbacher Weg</strasse>
+          <hausnummer>24</hausnummer>
+          <plz>57930</plz>
+          <stadt>Marburg</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>Universitätstrasse</Strasse>
-          <Hausnummer>150</Hausnummer>
-          <Plz>44801</Plz>
-          <Stadt>Bochum</Stadt>
+          <strasse>Universitätstrasse</strasse>
+          <hausnummer>150</hausnummer>
+          <plz>44801</plz>
+          <stadt>Bochum</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>Markstrasse</Strasse>
-          <Hausnummer>105</Hausnummer>
-          <Plz>44801</Plz>
-          <Stadt>Marburg</Stadt>
+          <strasse>Markstrasse</strasse>
+          <hausnummer>105</hausnummer>
+          <plz>44801</plz>
+          <stadt>Marburg</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>1774257849</Telefonnummer>
-      <Geburtsdatum>1997-10-05T00:00:00</Geburtsdatum>
-      <AnschriftLieferung>1</AnschriftLieferung>
-      <KundeSeit>2019-10-03T00:00:00</KundeSeit>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>1774257849</telefonnummer>
+      <geburtsdatum>1997-10-05T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2019-10-03T00:00:00</kundeSeit>
     </Kunde>
     <Kunde>
-      <Anrede>m/w/d</Anrede>
-      <Name>
-        <Vorname>vorname</Vorname>
-        <Mittelname />
-        <Nachname>nachname</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>177/0000000</Telefonnummer>
-      <Geburtsdatum>1980-01-01T00:00:00</Geburtsdatum>
-      <AnschriftLieferung>1</AnschriftLieferung>
-      <KundeSeit>2015-11-15T00:00:00</KundeSeit>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
     </Kunde>
     <Kunde>
-      <Anrede>m/w/d</Anrede>
-      <Name>
-        <Vorname>vorname</Vorname>
-        <Mittelname />
-        <Nachname>nachname</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>177/0000000</Telefonnummer>
-      <Geburtsdatum>1980-01-01T00:00:00</Geburtsdatum>
-      <AnschriftLieferung>1</AnschriftLieferung>
-      <KundeSeit>2015-11-15T00:00:00</KundeSeit>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
     </Kunde>
     <Kunde>
-      <Anrede>m/w/d</Anrede>
-      <Name>
-        <Vorname>vorname</Vorname>
-        <Mittelname />
-        <Nachname>nachname</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>177/0000000</Telefonnummer>
-      <Geburtsdatum>1980-01-01T00:00:00</Geburtsdatum>
-      <AnschriftLieferung>1</AnschriftLieferung>
-      <KundeSeit>2015-11-15T00:00:00</KundeSeit>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
     </Kunde>
     <Kunde>
-      <Anrede>m/w/d</Anrede>
-      <Name>
-        <Vorname>vorname</Vorname>
-        <Mittelname />
-        <Nachname>nachname</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>177/0000000</Telefonnummer>
-      <Geburtsdatum>1980-01-01T00:00:00</Geburtsdatum>
-      <AnschriftLieferung>1</AnschriftLieferung>
-      <KundeSeit>2015-11-15T00:00:00</KundeSeit>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftLieferung>1</anschriftLieferung>
+      <kundeSeit>2015-11-15T00:00:00</kundeSeit>
     </Kunde>
-  </Kundenverwaltung>
-  <Mitarbeiterverwaltung>
+  </kundenverwaltung>
+  <mitarbeiterverwaltung>
     <Mitarbeiter>
-      <Anrede>Frau</Anrede>
-      <Name>
-        <Vorname>Flor</Vorname>
-        <Mittelname />
-        <Nachname>Amargo</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>Frau</anrede>
+      <name>
+        <vorname>Flor</vorname>
+        <mittelname />
+        <nachname>Amargo</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>Markstrasse</Strasse>
-          <Hausnummer>105</Hausnummer>
-          <Plz>44801</Plz>
-          <Stadt>Marburg</Stadt>
+          <strasse>Markstrasse</strasse>
+          <hausnummer>105</hausnummer>
+          <plz>44801</plz>
+          <stadt>Marburg</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>Marbacher Weg</Strasse>
-          <Hausnummer>12</Hausnummer>
-          <Plz>44301</Plz>
-          <Stadt>Marburg</Stadt>
+          <strasse>Marbacher Weg</strasse>
+          <hausnummer>12</hausnummer>
+          <plz>44301</plz>
+          <stadt>Marburg</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>1774347843</Telefonnummer>
-      <Geburtsdatum>1998-10-20T00:00:00</Geburtsdatum>
-      <AnschriftBuero>1</AnschriftBuero>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>1774347843</telefonnummer>
+      <geburtsdatum>1998-10-20T00:00:00</geburtsdatum>
+      <anschriftBuero>1</anschriftBuero>
     </Mitarbeiter>
     <Mitarbeiter>
-      <Anrede>Herr</Anrede>
-      <Name>
-        <Vorname>Pedrito</Vorname>
-        <Mittelname />
-        <Nachname>Sola</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>Herr</anrede>
+      <name>
+        <vorname>Pedrito</vorname>
+        <mittelname />
+        <nachname>Sola</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>Markstrasse</Strasse>
-          <Hausnummer>105</Hausnummer>
-          <Plz>44801</Plz>
-          <Stadt>Marburg</Stadt>
+          <strasse>Markstrasse</strasse>
+          <hausnummer>105</hausnummer>
+          <plz>44801</plz>
+          <stadt>Marburg</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>1774347843</Telefonnummer>
-      <Geburtsdatum>1968-10-20T00:00:00</Geburtsdatum>
-      <AnschriftBuero>1</AnschriftBuero>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>1774347843</telefonnummer>
+      <geburtsdatum>1968-10-20T00:00:00</geburtsdatum>
+      <anschriftBuero>1</anschriftBuero>
     </Mitarbeiter>
     <Mitarbeiter>
-      <Anrede>m/w/d</Anrede>
-      <Name>
-        <Vorname>vorname</Vorname>
-        <Mittelname />
-        <Nachname>nachname</Nachname>
-      </Name>
-      <Adressbuch>
+      <anrede>m/w/d</anrede>
+      <name>
+        <vorname>vorname</vorname>
+        <mittelname />
+        <nachname>nachname</nachname>
+      </name>
+      <adressbuch>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
         <Adresse>
-          <Strasse>strasse</Strasse>
-          <Hausnummer>123</Hausnummer>
-          <Plz>45678</Plz>
-          <Stadt>stadt</Stadt>
+          <strasse>strasse</strasse>
+          <hausnummer>123</hausnummer>
+          <plz>45678</plz>
+          <stadt>stadt</stadt>
         </Adresse>
-      </Adressbuch>
-      <AnschriftPrivat>0</AnschriftPrivat>
-      <Telefonnummer>177/0000000</Telefonnummer>
-      <Geburtsdatum>1980-01-01T00:00:00</Geburtsdatum>
-      <AnschriftBuero>1</AnschriftBuero>
+      </adressbuch>
+      <anschriftPrivat>0</anschriftPrivat>
+      <telefonnummer>177/0000000</telefonnummer>
+      <geburtsdatum>1980-01-01T00:00:00</geburtsdatum>
+      <anschriftBuero>1</anschriftBuero>
     </Mitarbeiter>
-  </Mitarbeiterverwaltung>
+  </mitarbeiterverwaltung>
 </Datenverwaltung>

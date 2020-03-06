@@ -9,8 +9,8 @@ namespace Testat11
     public class Datenverwaltung
     {
         //Data
-        private List<Kunde> kundenverwaltung = new List<Kunde>();
-        private List<Mitarbeiter> mitarbeiterverwaltung = new List<Mitarbeiter>();
+        public List<Kunde> kundenverwaltung = new List<Kunde>();
+        public List<Mitarbeiter> mitarbeiterverwaltung = new List<Mitarbeiter>();
 
         //Konstruktoren
         public Datenverwaltung() { }
@@ -28,18 +28,6 @@ namespace Testat11
         }
         
         //Methoden
-        public List<Kunde> Kundenverwaltung
-        {
-            get { return kundenverwaltung; }
-            set { kundenverwaltung = value; }
-        }
-
-        public List<Mitarbeiter> Mitarbeiterverwaltung
-        {
-            get { return mitarbeiterverwaltung; }
-            set { mitarbeiterverwaltung= value; }
-        }
-
         public void reset(string type)
         {
             if (type.Equals("Kunden"))
@@ -57,11 +45,11 @@ namespace Testat11
         {
             foreach(Kunde k in kundenverwaltung)
             {
-                k.Adressbuch.Clear();
+                k.adressbuch.Clear();
             }
             foreach (Mitarbeiter m in mitarbeiterverwaltung)
             {
-                m.Adressbuch.Clear();
+                m.adressbuch.Clear();
             }
             kundenverwaltung.Clear();
             mitarbeiterverwaltung.Clear();
